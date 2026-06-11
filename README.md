@@ -1,7 +1,7 @@
-# Happy Codex
+# Happex
 
 AI-powered engineering harness.
 
 ## Download
 
-See [Releases](https://github.com/huangsongyuan/happy-codex/releases) for macOS, Windows installers.
+See [Releases](https://github.com/huangsongyuan/happex/releases) for macOS, Windows installers.
